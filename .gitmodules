@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GWENA"]
+	path = GWENA
+	url = https://github.com/kumquatum/gwena
+	shallow = true
+	registered = true
